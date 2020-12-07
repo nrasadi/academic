@@ -20,8 +20,7 @@ social:
   - link: https://gitlab.com/nrasadi
     icon_pack: fab
     icon: gitlab
-education:
-  courses: []
+
 user_groups:
   - Researchers
   - Visitors
