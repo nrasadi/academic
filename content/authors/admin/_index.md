@@ -1,11 +1,11 @@
 ---
 organizations:
-  - name: Sharif University of Technology
+  - name: CE Department, Sharif University of Technology
     url: http://ce.sharif.edu/
 superuser: true
 authors:
   - admin
-role: Graduate student of Computer Engineering
+role: Graduate Student
 avatar_filename: ""
 bio: My research interests include but not limited to Pervasive (Edge/Fog/Cloud)
   Computing, Machine Learning, Computer Vision, Smart Health.
@@ -24,11 +24,11 @@ social:
 user_groups:
   - Researchers
   - Visitors
-highlight_name: false
+highlight_name: true
 title: Navidreza Asadi
 email: navidreza.asadi@gmail.com
 ---
-I am a MSc student of Computer Engineering at the Sharif University of Technology.
+I am a MSc student at Computer Engineering department of the Sharif University of Technology (SUT).
 
 My research interests include but not limited to:
 
