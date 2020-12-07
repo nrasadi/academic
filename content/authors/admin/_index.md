@@ -1,7 +1,7 @@
 ---
 organizations:
   - name: Sharif University of Technology
-    url: http://sharif.edu
+    url: http://ce.sharif.edu/
 superuser: true
 authors:
   - admin
