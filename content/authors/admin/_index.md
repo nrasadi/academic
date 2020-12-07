@@ -6,7 +6,7 @@ superuser: true
 authors:
   - admin
 role: Graduate student of Computer Engineering
-avatar_filename: navid_model_2.png
+avatar_filename: ""
 bio: My research interests include but not limited to Pervasive (Edge/Fog/Cloud)
   Computing, Machine Learning, Computer Vision, Smart Health.
 interests: []
