@@ -5,7 +5,7 @@ organizations:
 superuser: true
 authors:
   - admin
-role: Professor of Artificial Intelligence
+role: Graduate student of Computer Engineering
 avatar_filename: navid_model_2.png
 bio: My research interests include but not limited to Pervasive (Edge/Fog/Cloud)
   Computing, Machine Learning, Computer Vision, Smart Health.
