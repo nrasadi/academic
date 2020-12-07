@@ -30,7 +30,7 @@ email: navidreza.asadi@gmail.com
 ---
 I am a MSc student at Computer Engineering department of the Sharif University of Technology (SUT).
 
-My research interests include but not limited to:
+My research interests include, but not limited to:
 
 * Pervasive (Edge/Fog/Cloud) Computing
 * Machine Learning
