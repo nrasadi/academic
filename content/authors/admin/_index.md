@@ -20,7 +20,6 @@ social:
   - link: https://gitlab.com/nrasadi
     icon_pack: fab
     icon: gitlab
-
 user_groups:
   - Researchers
   - Visitors
@@ -37,6 +36,4 @@ My research interests include, but not limited to:
 * Computer Vision
 * Smart Health
 
-I currently work as a research assistant at the EASY lab, under supervision of professor Maziar Goudarzi, where I collaborate on different projects related to my areas of expertise.
-
-
+I work as a research assistant at the EASY lab, under supervision of professor Maziar Goudarzi, where I collaborate on different projects related to my areas of expertise.
