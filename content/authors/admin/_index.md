@@ -36,4 +36,4 @@ My research interests include, but not limited to:
 * Computer Vision
 * Smart Health
 
-I work as a research assistant at the EASY lab, under supervision of professor Maziar Goudarzi, where I collaborate on different projects related to my areas of expertise.
+Currently, I am working as a research assistant at the EASY lab, under supervision of professor Maziar Goudarzi, where I collaborate on different projects related to my areas of expertise.
